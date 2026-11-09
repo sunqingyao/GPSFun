@@ -1,0 +1,44 @@
+Query_ID	UniProt_ID	identity	Protein_Name	Gene_Name	Organism	Length
+apgM	A0B6L2	100.0	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	apgM	Methanothrix thermoacetophila (strain DSM 6194 / JCM 14653 / NBRC 101360 / PT)	392
+apgM	Q8PX04	54.2	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	apgM	Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88)	397
+apgM	Q12UL5	52.4	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	apgM	Methanococcoides burtonii (strain DSM 6242 / NBRC 107633 / OCM 468 / ACE-M)	401
+apgM	P58812	53.7	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	apgM	Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 / JCM 12185 / C2A)	397
+apgM	Q46E58	52.4	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	apgM	Methanosarcina barkeri (strain Fusaro / DSM 804)	398
+apgM	Q74C57	54.1	Probable 2,3-bisphosphoglycerate-independent phosphoglycerate mutase	apgM	Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA)	399
+apgM	O26518	53.0	2,3-bisphosphoglycerate-independent phosphoglycerate mutase 2	apgM2	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	402
+echPT1	A0A017SP50	100.0	Echinulin prenyltransferase 1	echPT1	Aspergillus ruber (strain CBS 135680)	417
+echPT1	A0A2D1VNJ8	100.0	Echinulin prenyltransferase 1	echPT1	Aspergillus ruber	417
+echPT1	A0A1E3B0T7	91.4	Reverse prenyltransferase criA	criA	Aspergillus cristatus	431
+echPT1	E0Y3X1	51.6	Deoxybrevianamide E synthase notF	notF	Aspergillus sp. (strain MF297-2)	452
+rng	A0A0H3NGK0	100.0	Ribonuclease G	rng	Salmonella typhimurium (strain SL1344)	489
+rng	P0A9J2	96.7	Ribonuclease G	rng	Escherichia coli O157:H7	489
+rng	P0A9J1	96.7	Ribonuclease G	rng	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	489
+rng	P0A9J0	96.7	Ribonuclease G	rng	Escherichia coli (strain K12)	489
+rng	P0A9J3	96.7	Ribonuclease G	rng	Shigella flexneri	489
+rng	P45175	71.5	Ribonuclease G	rng	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	491
+socB	A0A0H3CC30	100.0	DNA replication inhibitor toxin SocB	socB	Caulobacter vibrioides (strain NA1000 / CB15N)	237
+XTH7	A0A067XR63	100.0	Xyloglucan endotransglucosylase protein 7	XTH7	Diospyros kaki	268
+XTH7	G5DAC6	66.4	Xyloglucan endotransglucosylase protein 1	XTH1	Diospyros kaki	287
+XTH7	Q38857	68.5	Xyloglucan endotransglucosylase/hydrolase protein 22	XTH22	Arabidopsis thaliana	284
+XTH7	Q38910	69.1	Probable xyloglucan endotransglucosylase/hydrolase protein 23	XTH23	Arabidopsis thaliana	286
+XTH7	A0A067YMX8	64.3	Xyloglucan endotransglucosylase protein 8	XTH8	Diospyros kaki	288
+XTH7	Q38907	64.6	Probable xyloglucan endotransglucosylase/hydrolase protein 25	XTH25	Arabidopsis thaliana	284
+XTH7	Q8LG58	63.8	Probable xyloglucan endotransglucosylase/hydrolase protein 16	XTH16	Arabidopsis thaliana	291
+XTH7	P35694	65.0	Xyloglucan endotransglucosylase/hydrolase 2		Glycine max	283
+XTH7	Q38911	63.9	Xyloglucan endotransglucosylase/hydrolase protein 15	XTH15	Arabidopsis thaliana	289
+XTH7	Q9FI31	61.8	Xyloglucan endotransglucosylase/hydrolase protein 20	XTH20	Arabidopsis thaliana	282
+XTH7	P24806	63.2	Xyloglucan endotransglucosylase/hydrolase protein 24	XTH24	Arabidopsis thaliana	269
+XTH7	Q9M0D1	60.7	Xyloglucan endotransglucosylase/hydrolase protein 19	XTH19	Arabidopsis thaliana	277
+XTH7	O80803	60.5	Probable xyloglucan endotransglucosylase/hydrolase protein 17	XTH17	Arabidopsis thaliana	282
+XTH7	Q9M0D2	59.2	Probable xyloglucan endotransglucosylase/hydrolase protein 18	XTH18	Arabidopsis thaliana	282
+XTH7	Q9ZV40	58.5	Probable xyloglucan endotransglucosylase/hydrolase protein 21	XTH21	Arabidopsis thaliana	305
+XTH7	Q9FKL8	57.8	Putative xyloglucan endotransglucosylase/hydrolase protein 13	XTH13	Arabidopsis thaliana	284
+XTH7	Q9ZSU4	57.2	Xyloglucan endotransglucosylase/hydrolase protein 14	XTH14	Arabidopsis thaliana	287
+XTH7	Q9FKL9	58.6	Probable xyloglucan endotransglucosylase/hydrolase protein 12	XTH12	Arabidopsis thaliana	285
+XTH7	G5DAC7	54.1	Xyloglucan endotransglucosylase protein 2	XTH2	Diospyros kaki	295
+XTH7	Q8GZD5	53.7	Xyloglucan endotransglucosylase protein 34	XTH16-34	Populus tremula x Populus tremuloides	294
+XTH7	Q9XIW1	52.9	Probable xyloglucan endotransglucosylase/hydrolase protein 5	XTH5	Arabidopsis thaliana	293
+XTH7	Q9SVV2	51.9	Probable xyloglucan endotransglucosylase/hydrolase protein 26	XTH26	Arabidopsis thaliana	292
+XTH7	Q41542	52.1	Probable xyloglucan endotransglucosylase/hydrolase	XTH	Triticum aestivum	293
+XTH7	Q39857	51.4	Xyloglucan endotransglucosylase/hydrolase 1	XTH1	Glycine max	296
+XTH7	Q41638	51.4	Xyloglucan endotransglucosylase/hydrolase protein A	XTHA	Phaseolus angularis	292
